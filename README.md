@@ -1,4 +1,4 @@
-# Pizzaria
+# BD - Pizzaria
 Projeto desenvolvido na disciplina de Banco de Dados, onde são retiradas informações pertinentes a uma Pizzaria
 
 ## Lista de informações retiradas
